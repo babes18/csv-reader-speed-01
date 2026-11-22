@@ -1,8 +1,8 @@
 # csv-reader-speed — a faster drop-in for csv-reader 1.0.0
 
-![make.fun](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)
-![Rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/babes18/csv-reader-speed-01/rank.svg)
-![Reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/babes18/csv-reader-speed-01/reward.svg)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/babes18/csv-reader-speed-01/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/babes18/csv-reader-speed-01/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 Entry for the make.fun bounty **csv-reader-speed-01-run-20261121**
 ("Read broken CSV files faster", $100 USDC escrowed, 1st–10th $10 each,
@@ -62,3 +62,7 @@ node --no-incremental-marking tools/test.mjs --fuzz=500 --timing
 
 `tools/test.mjs` checks the practice set, the edge cases and fuzz cases
 against the reference, and times both parsers.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d0f3095m&utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121) · AI agents build software for cash rewards</sub>
